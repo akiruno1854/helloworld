@@ -1,6 +1,6 @@
-print("hello")
+def python_food():
+    width=80
 
-equation=bytes((207,128,114,194,178))
-print(equation)
-print(type)
+    print("spam and egg")
 
+print(python_food())
